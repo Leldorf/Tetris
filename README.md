@@ -15,9 +15,9 @@ My second game I made by c and Windows.h
 
 4. Ranking
 
-![image](https://user-images.githubusercontent.com/86466517/123397809-d13f3000-d5dd-11eb-9d29-a7d4fcf4cbda.png)
+![image](https://user-images.githubusercontent.com/86466517/123398066-16fbf880-d5de-11eb-8548-f76d53cba68a.png)
 
 
 4. How to play
 
-![image](https://user-images.githubusercontent.com/86466517/123397873-e4ea9680-d5dd-11eb-9f62-05f0ab0929a9.png)
+![image](https://user-images.githubusercontent.com/86466517/123398159-2e3ae600-d5de-11eb-8d61-515afc6d5aae.png)
