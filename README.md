@@ -13,6 +13,11 @@ My second game I made by c and Windows.h
 
 ![image](https://user-images.githubusercontent.com/86466517/123397638-989f5680-d5dd-11eb-871a-84dfe52e9a75.png)
 
+4. Ranking
+
+![image](https://user-images.githubusercontent.com/86466517/123397809-d13f3000-d5dd-11eb-9d29-a7d4fcf4cbda.png)
+
+
 4. How to play
 
-![image](https://user-images.githubusercontent.com/86466517/123397687-a5bc4580-d5dd-11eb-80ea-714357526132.png)
+![image](https://user-images.githubusercontent.com/86466517/123397873-e4ea9680-d5dd-11eb-9f62-05f0ab0929a9.png)
