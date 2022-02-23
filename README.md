@@ -1,5 +1,5 @@
 # Tetris
-My second game I made by c and Windows.h
+My second game I made by c
 
 1. Title
 
