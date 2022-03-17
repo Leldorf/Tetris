@@ -7,7 +7,7 @@ My second game I made by c
 
 2. In Game
 
-![image](https://user-images.githubusercontent.com/86466517/123397566-86251d00-d5dd-11eb-8e74-fa285d23ae06.png)
+![123397566-86251d00-d5dd-11eb-8e74-fa285d23ae06](https://user-images.githubusercontent.com/86466517/158778139-f233a505-5144-43f2-be22-fc22f0dbda21.png)
 
 3. Battle
 
